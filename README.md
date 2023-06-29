@@ -27,6 +27,10 @@ Introducing Cardly. A program that generates fake Credit-Card informations! Supp
 
 
 
+https://github.com/MrMidnight7331/Cardly/assets/112803556/291ba0f2-1c78-4ef6-8eb9-ddfacceb7465
+
+
+
 # Socials
 
 Email: mr.midnight.7331@gmail.com
